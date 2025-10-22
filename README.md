@@ -130,7 +130,7 @@ python task5.py --host localhost --port 9999 --window 5
 
 ## 📊 Results & Observations
 ---
-Task 4: Model successfully predicted fares in real time with small deviations (< 1 unit avg).
-Task 5: Model accurately followed fare-trend patterns using time-window aggregation.
-Demonstrated Spark Structured Streaming’s integration with MLlib for continuous ML inference.
+- **Task 4:** Model successfully predicted fares in real time with small deviations (< 1 unit avg).
+- **Task 5:** Model accurately followed fare-trend patterns using time-window aggregation.
+- Demonstrated Spark Structured Streaming’s integration with MLlib for continuous ML inference.
 
