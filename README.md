@@ -134,13 +134,3 @@ Task 4: Model successfully predicted fares in real time with small deviations (<
 Task 5: Model accurately followed fare-trend patterns using time-window aggregation.
 Demonstrated Spark Structured Streaming’s integration with MLlib for continuous ML inference.
 
---------------------------------
-
-### 🧾 Submission Checklist
-
-✅ .py scripts for Task 4 and Task 5  
-✅ Generated output screenshots included in README  
-✅ Proper folder structure and model paths  
-✅ Final repository pushed to GitHub  
-
-
